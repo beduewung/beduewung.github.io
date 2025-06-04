@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Biography
+subtitle: Ph.D. candidate | Cornell University | zw632[dot]cornell[dot]edu
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a rising 5-th year Ph.D. student at Cornell University Department of Chemistry and Chemical Biology advised by [Prof. Peng Chen](https://blogs.cornell.edu/chengroup/). My research lies in the field of biophysics and biophysical chemistry, and I am currently focusing on
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Super-resolution single-molecule tracking of proteins in living cells
+- Single-cell temporal behavior and populational spatial pattern in bottom-up bio-communities
 
 What else do you need?
 
