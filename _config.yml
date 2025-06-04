@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Zhaohong Wang
 
 # Your name to show in the footer
-author: Some Person
+author: Zhaohong Wang
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -94,8 +94,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
